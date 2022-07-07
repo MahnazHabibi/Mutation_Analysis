@@ -1,6 +1,6 @@
 # Mutation_Analysis
 
-Unsupervised machine learning method to identify candidate driver genes.
+A new  machine learning method for cancer mutation analysis.
 
 Descripotion:
 
