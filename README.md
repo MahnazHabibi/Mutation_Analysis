@@ -11,7 +11,7 @@ Data sets:
 
 
 File "Disease_Cases.mat" is the MATLAB .mat file contains the list of 15 diseases which are analized and the list of their cases.
-
+File "Genes_Cases.mat" is the MATLAB .mat file contains the list of 573 mutated cancer genes which are analized and the list of their cases.
 
 
 To run machine learning algorithms follow the "Read_me.txt" steps.
