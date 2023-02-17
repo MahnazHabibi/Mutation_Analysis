@@ -1,11 +1,7 @@
-# Mutation_Analysis
-
-A new  machine learning method for cancer mutation analysis.
+# A new  machine learning method for cancer mutation analysis.
 
 
-Descripotion:
-
-This repository contains the data and MATLAB code for the "A new machine learning method for cancer mutation analysis":
+> Descripotion: This repository contains the data and MATLAB code for the "A new machine learning method for cancer mutation analysis",a machine learning method to study the functionality of mutually exclusive genes in the networks derived from mutation associations, gene-gene interactions, and graph clustering.
 
 
 Data sets:
